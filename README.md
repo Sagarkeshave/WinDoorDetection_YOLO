@@ -1,3 +1,24 @@
+
+Here are the sample outputs from the model:
+<br>
+### 1. Deployed app ui
+
+![Model Prediction 1](assets/web_ui.jpg)
+<br>
+<br>
+<br>
+### 2. Training phase in colab
+![Model Prediction 1](assets/yolo_training.jpg)
+<br>
+<br>
+<br>
+### 3. Labeling images
+![Model Prediction 1](assets/label_1.jpg)
+<br>
+<br>
+<br>
+![Model Prediction 2](assets/label_2.jpg)
+
 # 🏗️ YOLOv8 Object Detection App – Blueprint Door & Window Detector
 
 Welcome to my deployed computer vision project using **YOLOv8 + Gradio**, designed to detect **doors and windows** in architectural **construction blueprints**.
