@@ -2,8 +2,6 @@
 
 Welcome to my deployed computer vision project using **YOLOv8 + Gradio**, designed to detect **doors and windows** in architectural **construction blueprints**.
 
-![demo](https://github.com/ultralytics/assets/raw/main/yolov8/banner-yolov8.png)
-
 ---
 
 ## 🔍 About the App
@@ -41,12 +39,9 @@ The goal was to automate detection in architectural layouts and assist with digi
 2. View the image with annotated bounding boxes.
 3. Review the detection results in JSON format.
 
-✅ Try it online: *(add your Hugging Face space URL here)*  
-✅ Or run it locally:
 
 ```bash
-git clone https://huggingface.co/spaces/YOUR_USERNAME/yolov8-gradio-demo
-cd yolov8-gradio-demo
+git clone https://github.com/Sagarkeshave/WinDoorDetection_YOLO.git
 pip install -r requirements.txt
 python app.py
 ```
@@ -67,15 +62,15 @@ python app.py
 ## 📦 Model Info
 
 - **Framework**: [Ultralytics YOLOv8](https://docs.ultralytics.com/)
-- **Trained On**: Custom blueprint dataset with annotated door and window classes
+- **Trained On**: Custom blueprint dataset with annotated door and window classes.
 - **Performance**: Optimized for fast inference on 2D plan layouts
 
 ---
 
-## 🎯 Recruiter Notes
+## 🎯 Notes
 
 This project demonstrates:
-- Custom model training and fine-tuning
+- Custom model training.
 - Practical use of object detection in architecture
 - Real-world deployment using Hugging Face Spaces
 - Building user-friendly ML apps with Gradio
@@ -84,10 +79,7 @@ This project demonstrates:
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**SAGAR G. KESHAVE**  
+[LinkedIn](https://www.linkedin.com/in/sagar-keshave-564916221/)
 
 ---
-
-> ⭐ Feel free to connect with me to discuss AI in construction tech or computer vision applications!
-
